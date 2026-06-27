@@ -281,5 +281,3 @@ jupyter notebook notebooks/
 B.Tech · Batch 2026
 [GitHub](https://github.com/KryptoKoder-04) 
 
-```
-docs: add live demo, dataset, GitHub, LinkedIn and portfolio links to README
