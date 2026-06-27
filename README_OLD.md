@@ -155,15 +155,15 @@ profit = revenue - cost
 ---
 
 ## 📊 Analyses Performed
-| 🔗 LinkedIn | [linkedin.com/in/ashutosh1975271](https://www.linkedin.com/in/ashutosh1975271/) |
+| 🔗 LinkedIn | [linkedin.com/in/KabirSinghKhair](https://www.linkedin.com/in/kabirsinghkhair/) |
 
 ---
 
 ## 👤 Author
 
-**Ashutosh**
-B.Tech Electronics Engineering · CGPA 7.5 · Batch 2026
-[GitHub](https://github.com/Ashutosh-AIBOT) · [LinkedIn](https://www.linkedin.com/in/ashutosh1975271/) · [Portfolio](https://ashutosh-portfolio-kappa.vercel.app/)
+**Kabir Singh Khair**
+B.Tech · Batch 2026
+[GitHub](https://github.com/KryptoKoder-04) 
 
 ---
 
